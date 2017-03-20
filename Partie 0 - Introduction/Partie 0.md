@@ -30,7 +30,7 @@ Sa particularité est qu'il est décentralisé (voir plus haut), ce qui le disti
 
 Sous licence GPL-2.0, il est utilisé par beaucoup de développeurs et est très souvent associé à
 GitHub, qui n'est qu'un "réseau social" de Git : il permet de s'y retrouver dans ses
-projets
+projets.
 
 ### Terminologie de Git
 Un projet, dans Git, est appelé un _dépôt_. Pour commencer à travailler dessus, nous verrons
