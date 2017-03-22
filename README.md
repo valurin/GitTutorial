@@ -4,4 +4,4 @@ son travail de programmation. Il nécessite des connaissances de base en ligne d
 
 Pour commencer, dirigez-vous sur la partie 0 consacrée à l'introduction sur les logiciels de versioning et GitHub.
 
-(c) Louis Boulanger (louis.boulanger@etu.univ-smb.fr)
+© Louis Boulanger (louis.boulanger@etu.univ-smb.fr)
