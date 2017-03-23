@@ -25,7 +25,7 @@ mettent en commun !
 
 ### Git : un VCS décentralisé
 Nous allons nous concentrer et utiliser le logiciel nommé Git (prononcé "guite"), développé par
-Linus Torvald, le créateur même du noyau Linux ! En effet, il a été créé en 2005 lorsque le développement
+Linus Torvalds, le créateur même du noyau Linux ! En effet, il a été créé en 2005 lorsque le développement
 et la maintenance du projet n'était plus possible .
 
 Sa particularité est qu'il est décentralisé (voir plus haut), ce qui le distingue de SVN, son concurrent.
